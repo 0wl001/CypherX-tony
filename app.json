@@ -17,7 +17,7 @@
   "env": {
     "SESSION_ID": {
       "description": "Enter your CypherX session id here; must start with XPLOADER-BOT:~ (Yes, it's like a secret agent code. Don’t mess it up!)",
-      "value": "",
+      "value": "CYPHER-X:~UEsDBBQAAAgIAPRNylpPrTBxTAQAAG8HAAAKAAAAY3JlZHMuanNvbpVU25KiSBD9l3rFGAFBLhEdsaCieBlpFRU25qGEAqq5FwU2TPjvE+j0dD*s9vbyVFRlnDx58mT+BFmOK7RCLVB*goLgBlLUH2lbIKACvQ4CRMAA+JBCoIJ4LTjb3cw6KYUp1vNZaOLpnGuxv7pcbXkTnLevYio1kPDmE7gNQFFfEux9Asgy2HDL6*W7f+wC*nUxJNMCT4vARBHJGjQMHCPqCiz4mH0Ctx4RYoKzcFZEKEUEJivUWhCTr9HHesSXTLu1*IaGHF*OfMXjUhgnRySNxMOhRqcMJjZbzbWv0d+2dnp9psaMOTk14qdJrnRjXuBGimUfnUU8loudJ7u63sUP+hUOM+SbPsoopu2XdfcMrttgkVVWulsWqUYb5sSPxCSfPPvm0Wm7zqvL7aFxTt7XiGv02RH3UWSWwyJNhxIRUGysmatv7Vznu6Yoay8lniZwcfiRuEXevBL*H92ZiScmbs3IMl9kXMs6Oy6HcTEuT3I6TWpm2Y1dfnV1qln4NfqTBWahjE1Xo8OVwzpaPuXCaesZmUyumO3yZSs3qeueOfmdPqQ1+dTcM+TI7Fg8uljP0noju5GxSln3WdPrumS00DpI+UGbkdDpuMI+WPPRka7DOrOsfaNbZpk3k44ydTmS8kSsYyEQ+Zfnp3tFMWpNH6jcbQAICnFFCaQ4z*q78QBAv9kjjyB6Fxc0esQx+tUUpdKk7DnZlUanL0ZLa+SwSytaxseNnmqJI27sJzAABck9VFXIX+CK5qTdoKqCIaqA+vePAcjQK320rU824gYgwKSidlYXSQ79t56+PULPy+uM7tvMm*QHRIDKvl8jSnEWVr2KdQaJF+EGTSJIK6AGMKnQn*oQQT5QKanRn5md5H4v+1QXBU4xNmAA0ns7sA9UwIuCJIsSq3CsovLKX9W3aw8Li+JbhigYgOQexnHSaMyK4z6UFaU+sn+4*WHYA*qIQpxUvU*MzBMv8my2aphMNudz3Qy1SaiB94rejPGQfna5Xhvfk8dyXOTwtCOR2wmRUU2RIdodz0vn8EV6fUaTafz0DyBABa1d0pcx6yXO6bBHS3OHX+rLyB1q5XJSsaVH+CgWK+2loRopFM3JiCXZ8LzeZo5t7HbdlvoGHJqncajlxxRunYwRptenPpuPGuyhj8kSa+y5853pcNI8PkhOct4smRA3E2gQk1xWMHEv+9lmVpz3TrQrrtZcPHKa12m+dba*D4N4a7jTCZcQPGTO66EnWDB40R6WvY9M8ntV4bud+l71vwFG98nPYN*B*+7dg3hvMfY2+IDxe5f8yzzqu7m8WY*O1rZZruA8iaFw8hhzd9FGETpuFFpzgsnI9iIMRXC7*RiAIoE0yEkKVAAzn+TYBwNA8rr3rJkF+WcbRbNNLXxUnsCKau9zcMApqihMC6BykqCIgiwL0iPKInmxgFUEVGCdYlHvPd1qRbGnkL5NFdD6byny4PYLUEsBAhQDFAAACAgA9E3KWk+tMHFMBAAAbwcAAAoAAAAAAAAAAAAAAKSBAAAAAGNyZWRzLmpzb25QSwUGAAAAAAEAAQA4AAAAdAQAAAAA",
       "required": false
     },
     "BOT_NAME": {
@@ -27,12 +27,12 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number here, starting with country code (e.g., 2547xxxxxxxx, because even bots need to know how to reach you!)",
-      "value": "",
+      "value": "254785709109",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Enter your name here (Who’s the boss behind the scenes? Spoiler: It's you!)",
-      "value": "",
+      "value": "Owl_001",
       "required": true
     },
    "HEROKU_API_KEY": {
